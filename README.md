@@ -1,4 +1,4 @@
-# baiku's blog
+# 这里是白裤的技术博客
 - 走进RocketMQ
   - [整体架构与设计](https://github.com/baikuarch/blog/edit/main/README.md)
   - [部署模式与实战](https://github.com/baikuarch/blog/edit/main/README.md)
