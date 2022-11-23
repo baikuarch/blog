@@ -1,5 +1,5 @@
 # 白裤的技术博客
-- 走进RocketMQ
+- **《走进RocketMQ》**
   - [整体架构与设计](https://github.com/baikuarch/blog/edit/main/README.md)
   - [部署模式与实战](https://github.com/baikuarch/blog/edit/main/README.md)
   - [消息存储与消费](https://github.com/baikuarch/blog/edit/main/README.md)
