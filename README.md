@@ -1,7 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm baiku</h1>
-<h3 align="center">A passionate backend developer from China</h3>
-
+<h1 align="center">Hi 👋, 这里是我的技术文</h1>
 
 # 中间件
 - 🍒RocketMQ
