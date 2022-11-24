@@ -10,14 +10,15 @@
     
 - 分布式设计
   - 分布式共识算法
-    - [1.Paxos](https://github.com/baikuarch/blog/issues/1)
-    - [2.Gossip](https://github.com/baikuarch/blog/issues/1)
-    - [3.Raft](https://github.com/baikuarch/blog/issues/1)
+    - [1.Paxos]()
+    - [2.Gossip]()
+    - [3.Raft]()
   - 分布式事务
-    - [1.强一致性](https://github.com/baikuarch/blog/issues/1)
-    - [2.最终一致性](https://github.com/baikuarch/blog/issues/1)
+    - [1.强一致性]()
+    - [2.最终一致性]()
     
 
 - 微服务
   - 注册中心
-    - [1.Eureka](https://github.com/baikuarch/blog/issues/1)
+    - [1.Eureka]()
+    - [2.Nacos]()
