@@ -8,6 +8,7 @@
   - [《走进RocketMQ》消息存储与消费✅](https://github.com/baikuarch/blog/issues/3)
   - [《走进RocketMQ》高性能网络通信✅](https://github.com/baikuarch/blog/issues/4)
   - [《走进RocketMQ》高性能文件读写✅](https://github.com/baikuarch/blog/issues/5)
+  - [RocketMQ的事务消息原理🕐]()
 - 🍇Nacos
   - [《走进Nacos》Nacos是什么🕐]()
   - [《走进Nacos》Nacos的架构与设计🕐]()
