@@ -1,6 +1,18 @@
 
 <h1 align="center">Hi 👋 青春开始的地方</h1>
-
+# Java
+- ☕️关键字
+  - [volatile🕐]()
+  - [synchronized🕐]()
+  - [final🕐]()
+- 🍻并发
+  - [AQS🕐]()
+  - [ThreadPool🕐]()
+  - [BlockingQueue🕐]()
+  - [Reentrantlock🕐]()
+  - [Semaphore🕐]()
+  - [CounDownLatch🕐]()
+  
 # 中间件
 - 🍒RocketMQ
   - [《走进RocketMQ》整体架构与设计✅](https://github.com/baikuarch/blog/issues/1)
