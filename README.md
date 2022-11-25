@@ -21,7 +21,7 @@
 
 # 分布式
 - 🍓分布式算法
-  - [Paxos🕐]()
+  - [Paxos🕐](https://github.com/baikuarch/blog/issues/6)
   - [Gossip🕐]()
   - [Raft🕐]()
 - 🍈分布式ID
