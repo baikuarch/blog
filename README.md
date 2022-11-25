@@ -4,7 +4,7 @@
 # Java
 - ☕️关键字
   - [volatile🕐]()
-  - [synchronized🕐]()
+  - [Synchronized🕐]()
   - [final🕐]()
 - 🍻并发
   - [AQS🕐]()
