@@ -12,7 +12,7 @@
   - [BlockingQueue🕐]()
   - [Reentrantlock🕐]()
   - [Semaphore🕐]()
-  - [CounDownLatch🕐]()
+  - [CountDownLatch🕐]()
   
 # 中间件
 - 🍒RocketMQ
