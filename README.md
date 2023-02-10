@@ -31,7 +31,7 @@
   - [《走进Sentinel》Sentinel的架构与设计🕐]()
   - [《走进Sentinel》Sentinel部署与实践🕐]()
 - 🍭Redis
-  - [Redis的线程模型分析🕐]()
+  - [Redis的线程模型分析🕐](https://github.com/baikuarch/blog/issues/7)
   - [Redis的几种部署模式🕐]()
   - [Redis常见应用场景🕐]()
 - 🍤MySQL
